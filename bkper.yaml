@@ -16,7 +16,8 @@ logo: https://media-exp1.licdn.com/dms/image/C560BAQGbkMgDaVMrYQ/company-logo_20
                # ${account.id} - the current account being filterd
                # ${account.properties.xxxxx} - any property value from the current account being filtered
 # Sample:
-menuUrl: https://docs.google.com/spreadsheets/d/1ynzuvDElnz5zLYaMSmANy1t9c4Vv9eKeZ4vXjteGCsY/edit#gid=0 
+#menuUrl: https://docs.google.com/spreadsheets/d/1ynzuvDElnz5zLYaMSmANy1t9c4Vv9eKeZ4vXjteGCsY/edit#gid=0
+menuUrl: https://docs.google.com/spreadsheets/d/1puPvBiMzd053ZpZMFJymXuLS9AHXAgK1jb-EdaPxwS8/edit#gid=0
 
 
 # Override the context menu call to action and popup window size
