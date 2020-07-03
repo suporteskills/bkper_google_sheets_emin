@@ -1,6 +1,6 @@
-# Bkper App Template
+# Bkper para Google Sheets
 
-Use this template to create personalized apps for you, your team or clients.
+Aplicativo para integração entre Bkper e GoogleSheets.
 
 ![Bkper App Menu](https://storage.googleapis.com/bkper-public/images/bkper-app-menu.png)
 
